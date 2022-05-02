@@ -1,6 +1,6 @@
 # Demora no Atendimento da Mecânica
 Este  trabalho e para ajudar um empresa que necessita de um sistema de qualidade .
-<h1>Demora no Atendimento da Menica</h1>
+<h1>Demora no Atendimento da Mecânica</h1>
 
 Uma mecanica de veículos realiza um sistema de atendimento  péssimo de  consulta para o seu cliente por isso geramente demora 
 para realizar um simples conserto no veículo por isso criamos um sistema web para evitar conflito do cliente para a empressa.
