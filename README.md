@@ -29,7 +29,7 @@ consulta no site da empressa  em gravar as informação  no site e retornar os d
 são: Usuário, Senha, Não Cadastrado, Nome, E-mail, Celualar, Placa do veículo, Modelo do carro, ano de carro, Serviços prestados, Agendamento de horário, Parte Admistrativa da Mecânica.
 
 
-# Reqisitoa Não Funcionais
+# Requisitos Não Funcionais
 
 RNF-001: O sistema deve salvar o arquivo.
 
