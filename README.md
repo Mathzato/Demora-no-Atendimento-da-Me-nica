@@ -41,5 +41,6 @@ RNF-003: O usuário deve ter instalado em seu computador o Python na versão 3.7
 
 
 # Diagrama de Casos de Uso 
-[Untitled.pdf](https://github.com/Mathzato/Demora-no-Atendimento-da-Me-nica/files/8627811/Untitled.pdf)
+
+![UseCaseDiagram1](https://user-images.githubusercontent.com/82292857/166837507-bfd5aae5-4d99-4032-b8dd-8b1de18d081c.png)
 
