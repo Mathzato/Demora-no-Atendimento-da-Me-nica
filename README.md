@@ -20,12 +20,12 @@ Usuário, Senha, Não Cadastrado, Nome, E-mail, Celualar, Placa do veículo, Mod
 
 # Requisitos Funcionais do Sistema
 
-RF-001: O sistema deve permitir a busca de informação dos veículos na mecánica ser o veículo
+RF-001: O sistema deve permitir a busca de informação dos veículos na mecanica ser o veículo
 estiver proto ele e liberado para o cliente,  ser não estiver proto o cliente receberar um e-mail falando que
 o veículo não estar pronto.
 
 RF-002:O sistema deve gravar os dados  retornados pela
-consulta no site da empressa  em gravar as informação  no site e retornar os dados que são aramazenados
+consulta no site da empresa  em gravar as informações  no site e retornar os dados que são aramazenados
 são: Usuário, Senha, Não Cadastrado, Nome, E-mail, Celualar, Placa do veículo, Modelo do carro, ano de carro, Serviços prestados, Agendamento de horário, Parte Admistrativa da Mecânica.
 
 
@@ -35,7 +35,11 @@ RNF-001: O sistema deve salvar o arquivo.
 
 RNF-002: O sistema deve ter acesso a internet.
 
-RNF-003: O usuário deve ter instalado em sue computador o Python na versão 3.7 ou superior.
+RNF-003: O usuário deve ter instalado em seu computador o Python na versão 3.7 ou superior.
 
+
+
+
+# Diagrama de Casos de Uso 
 [Untitled.pdf](https://github.com/Mathzato/Demora-no-Atendimento-da-Me-nica/files/8627811/Untitled.pdf)
 
