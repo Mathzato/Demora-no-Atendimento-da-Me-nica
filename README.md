@@ -36,3 +36,6 @@ RNF-001: O sistema deve salvar o arquivo.
 RNF-002: O sistema deve ter acesso a internet.
 
 RNF-003: O usuário deve ter instalado em sue computador o Python na versão 3.7 ou superior.
+
+[Untitled.pdf](https://github.com/Mathzato/Demora-no-Atendimento-da-Me-nica/files/8627811/Untitled.pdf)
+
