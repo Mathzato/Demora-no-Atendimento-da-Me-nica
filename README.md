@@ -22,7 +22,7 @@ Usuário, Senha, Não Cadastrado, Nome, E-mail, Celualar, Placa do veículo, Mod
 
 RF-001: O sistema deve permitir a busca de informação dos veículos na mecánica ser o veículo
 estiver proto ele e liberado para o cliente,  ser não estiver proto o cliente receberar um e-mail falando que
-o veículo não estar proto.
+o veículo não estar pronto.
 
 RF-002:O sistema deve gravar os dados  retornados pela
 consulta no site da empressa  em gravar as informação  no site e retornar os dados que são aramazenados
