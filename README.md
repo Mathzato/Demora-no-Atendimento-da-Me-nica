@@ -54,3 +54,14 @@ Visualização dos serviços prestados pela oficina.
 o usuario terá acesso aos horários disponíveis para ser atendido.
 
 # Confirma o preço total
+O usúario vai receber uma valor total do conserto  do veículo.
+
+# Confirma horario
+O usúario irá ter varias opções de horiarios para agendar.
+
+# Escolher outro hórario disponivel 
+Caso o usúario  escolher um horiario  disponivel
+
+# Cancelar hórario 
+Caso o usúario poderar cancelar o hórario 
+
