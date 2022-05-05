@@ -1,9 +1,9 @@
 # Demora no Atendimento da Mecânica
-Este  trabalho e para ajudar um empresa que necessita de um sistema de qualidade .
+Este  trabalho e para ajudar uma empresa que necessita de um sistema de qualidade .
 <h1>Demora no Atendimento da Mecânica</h1>
 
-Uma mecanica de veículos realiza um sistema de atendimento  péssimo de  consulta para o seu cliente por isso geramente demora 
-para realizar um simples conserto no veículo por isso criamos um sistema web para evitar conflito do cliente para a empressa.
+Uma mecânica de veículos realiza um sistema de atendimento   de  consulta para o seu cliente por isso geramente demora 
+para realizar um simples conserto no veículo por isso criamos um sistema web para evitar conflito do cliente para a empresa.
 
 # Levantamento de Requisitos
 
@@ -11,22 +11,19 @@ para realizar um simples conserto no veículo por isso criamos um sistema web pa
 
 2-Definição das prioridades: Em qualquer conjunto de requisitos, alguns serão mais importantes do que outros.
 quais são eles?
-Usuário, Senha, Não Cadastrado, Nome, E-mail, Celualar, Placa do veículo, Modelo do carro, ano de carro, Serviços prestados, Agendamento de horário, Parte Admistrativa da Mecânica.
+Usuário, senha,usuário não Cadastrado, nome, E-mail, Celualar, modelo do carro, ano de carro, serviços prestados, agendamento de horário, parte admistrativa da mecânica.
 
-3-Verificação de requisitos: Os requisitos são verificados para descobrir se estão completos e consistentes e se estão em concordância com o sistema que nós desenvolvel para a empressa.
+3-Verificação de requisitos: Os requisitos são verificados para descobrir se estão completos e consistentes e se estão em concordância com o sistema que nós desenvolvemos para a empresa.
 
-4-Resolução de conflitos: Quando múltiplos stakeholders estão envolvidos, os requisitos apresentarão conflitos. Essa atividade tem por objetivo solucionar esses conflitos.
+4-Resolução de conflitos: Quando múltiplos clientes estão envolvidos, os requisitos apresentarão conflitos. Essa atividade tem por objetivo solucionar esses conflitos.
 
 
 # Requisitos Funcionais do Sistema
 
-RF-001: O sistema deve permitir a busca de informação dos veículos na mecanica ser o veículo
-estiver proto ele e liberado para o cliente,  ser não estiver proto o cliente receberar um e-mail falando que
-o veículo não estar pronto.
+RF-001: O sistema deve informar ao cliente via email quando o serviço estiver concluído.
 
-RF-002:O sistema deve gravar os dados  retornados pela
-consulta no site da empresa  em gravar as informações  no site e retornar os dados que são aramazenados
-são: Usuário, Senha, Não Cadastrado, Nome, E-mail, Celualar, Placa do veículo, Modelo do carro, ano de carro, Serviços prestados, Agendamento de horário, Parte Admistrativa da Mecânica.
+RF-002:O sistema deve exibir os dados armazenados pela base de dados no site. As informações a serem exibidas
+são: Usuário, não Cadastrado, nome, e-mail, Celualar, placa do veículo, modelo do carro, ano de carro , agendamento de horário, Parte Admistrativa da Mecânica.
 
 
 # Requisitos Não Funcionais
@@ -42,5 +39,21 @@ RNF-003: O usuário deve ter instalado em seu computador o Python na versão 3.7
 
 # Diagrama de Casos de Uso 
 
-![UseCaseDiagram1](https://user-images.githubusercontent.com/82292857/166837507-bfd5aae5-4d99-4032-b8dd-8b1de18d081c.png)
+![diasgrama](https://user-images.githubusercontent.com/82292857/166848208-d094d578-45cd-44dc-b6fc-2840b6bf7154.png)
 
+# login
+o usuario entrará com suas informações para ter acesso a plataforma.
+
+# cadastro 
+Pessoas ainda não cadastradas no nosso sistema teram opção de ser cadastrar.
+
+# serviços 
+Visualização dos serviços prestados pela oficina.
+
+# agendamento de horario 
+o usuario terá acesso aos horários disponíveis para ser atendido.
+
+# serviço desejado 
+o usuario irá selecionar o serviço a ser prestado pela oficina.
+
+# horario de agendamento
