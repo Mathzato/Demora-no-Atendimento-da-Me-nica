@@ -38,8 +38,8 @@ RNF-003: O usuário deve ter instalado em seu computador o Python na versão 3.7
 
 
 # Diagrama de Casos de Uso 
+![Diagram001](https://user-images.githubusercontent.com/82292857/166848624-50112438-3ad1-4f74-97c0-367565b0ec69.png)
 
-![diasgrama](https://user-images.githubusercontent.com/82292857/166848208-d094d578-45cd-44dc-b6fc-2840b6bf7154.png)
 
 # login
 o usuario entrará com suas informações para ter acesso a plataforma.
@@ -53,7 +53,4 @@ Visualização dos serviços prestados pela oficina.
 # agendamento de horario 
 o usuario terá acesso aos horários disponíveis para ser atendido.
 
-# serviço desejado 
-o usuario irá selecionar o serviço a ser prestado pela oficina.
-
-# horario de agendamento
+# Confirma o preço total
