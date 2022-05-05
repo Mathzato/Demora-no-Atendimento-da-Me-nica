@@ -39,17 +39,17 @@ RNF-003: O usuário deve ter instalado em seu computador o Python na versão 3.7
 ![Diagram001](https://user-images.githubusercontent.com/82292857/166848624-50112438-3ad1-4f74-97c0-367565b0ec69.png)
 
 
-# login
+# Login
 
 O usuário irá acessar com suas informações para ter acesso a plataforma.
 
-# cadastro
+# Cadastro
 Pessoas ainda não cadastradas no nosso sistema terão opção de ser cadastrar.
 
-# serviços
+# Serviços
 Visualização dos serviços prestados pela oficina.
 
-# agendamento de horário
+# Agendamento de horário
 o usuário terá acesso aos horários disponíveis para ser atendido.
 
 # Confirma o preço total
