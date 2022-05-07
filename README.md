@@ -75,8 +75,7 @@ O administrador irá conseguir ver uma lista de todos os clientes cadastrado na 
 O administrador conseguira adicionar um novo serviço prestado pela a oficina ou atualizar um serviço ja disponivel (e também conseguir manipular os preço dos serviço)
 
 
-
-
+# Diagramas de atividade 
 
 
 
