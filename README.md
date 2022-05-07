@@ -79,3 +79,5 @@ O administrador conseguira adicionar um novo serviço prestado pela a oficina ou
 
 
 
+![Diagrma de Atividade  demora no atendimento da mecânica](https://user-images.githubusercontent.com/103469667/167234526-9d629afb-5950-41df-875b-039f0218d196.png)
+
